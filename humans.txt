@@ -1,17 +1,1 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
-holaaaaaa
-
-Yo también soy un humano
-# TEAM
-
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
+Este cambio pertenece al nuevo branch
